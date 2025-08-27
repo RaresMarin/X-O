@@ -1,4 +1,4 @@
-  # 🎟️Tic Tac Toe
+# 🎟️Tic Tac Toe
 
 The clasic game of tic tac toe but with a twist! You play against the calculator and see if you can beat him!
 
