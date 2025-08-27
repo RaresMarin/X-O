@@ -17,7 +17,7 @@ The clasic game of tic tac toe but with a twist! You play against the calculator
 
 ## 🐺How to Use
 
-- Launch the game to play tic tac toe;
+- Launch the game to play tic tac toe; 
 - Click the squares to put an X;
 - DO this till one of us wins or it's a tie
 
